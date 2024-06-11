@@ -87,7 +87,7 @@ export default function Form() {
   };
 
   return (
-    <form className="flex flex-col items-center justify-center w-full">
+    <form className="flex flex-col items-center justify-center w-full my-20">
       <div>
         <div className="flex flex-col gap-2 my-2 border p-6 rounded shadow">
           <Label>Service Engineer Name</Label>
