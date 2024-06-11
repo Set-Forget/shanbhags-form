@@ -6,7 +6,7 @@ import EngNameInput from '../engNameInput/EngNameInput';
 import { fetchEngineers } from '@/services/engineers';
 import EngEmailSelect from '../engEmailSelect/EngEmailSelect';
 import { getEngineerClients } from '@/services/clients';
-import ClientNameInput from '../clientNameInput/clientNameInput';
+import ClientNameInput from '../clientNameInput/ClientNameInput';
 import { Button } from '../ui/button';
 import getClientCompressors from '@/services/compressor';
 import SerialNumberSelect from '../serialNumberSelect/SerialNumberSelect';
